@@ -1,8 +1,9 @@
 import jdk.swing.interop.SwingInterOpUtils;
 
-class Shweta
+class Shweta  /// comments should be added
 
-{
+{      """""""""""..........//double quotes are added
+"""
     String name,FRND1,FRND2,FRND3;
     int birthyear;
 

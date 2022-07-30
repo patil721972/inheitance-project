@@ -1,6 +1,6 @@
 import jdk.swing.interop.SwingInterOpUtils;
 
-class Shweta
+class Shweta  /// comments should be added
 
 {
     String name,FRND1,FRND2,FRND3;
